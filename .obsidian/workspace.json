@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "picoCTF/01 - General Skills/2Warm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2Warm"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "picoCTF/01 - General Skills/2Warm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de README"
+              "title": "Enlaces entrantes de 2Warm"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "picoCTF/01 - General Skills/2Warm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de README"
+              "title": "Enlaces salientes de 2Warm"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "picoCTF/01 - General Skills/2Warm.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de README"
+              "title": "Esquema de 2Warm"
             }
           }
         ]
@@ -183,10 +183,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "76d8e2b907178939",
+  "active": "7f7c42b9082aadf6",
   "lastOpenFiles": [
-    "Plantilla.md",
     "README.md",
+    "picoCTF/01 - General Skills/Sin nombre",
+    "picoCTF/01 - General Skills/2Warm.md",
+    "picoCTF/01 - General Skills",
+    "Sin nombre",
+    "Plantilla.md",
     "picoCTF",
     "Bienvenido.md",
     "README"
