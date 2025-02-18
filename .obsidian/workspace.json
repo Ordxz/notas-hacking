@@ -11,12 +11,14 @@
             "id": "bd9deec179b92549",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250212185257.png"
+                "file": "picoCTF/02 - General Skills/10 - First Find.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250212185257"
+              "icon": "lucide-file",
+              "title": "10 - First Find"
             }
           }
         ]
@@ -166,28 +168,40 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7f7c42b9082aadf6",
+  "active": "bd9deec179b92549",
   "lastOpenFiles": [
+    "Pasted image 20250212185257.png",
+    "picoCTF/02 - General Skills/09 - Big zip.md",
+    "picoCTF/02 - General Skills/10 - First Find.md",
+    "picoCTF/02 - General Skills/08 - repetitions.md",
+    "picoCTF/02 - General Skills/07 - Magikarp Ground Mission.md",
+    "Pasted image 20250217232844.png",
+    "picoCTF/02 - General Skills/06 - Tab, Tab, Attack.md",
+    "picoCTF/02 - General Skills/05 - useless.md",
+    "picoCTF/02 - General Skills/04 - Static ain't always noise.md",
+    "Plantilla.md",
+    "picoCTF/02 - General Skills/02 - strings it.md",
+    "picoCTF/02 - General Skills/03 - Wave a flag.md",
+    "picoCTF/02 - General Skills/01 - Based.md",
+    "picoCTF/01 - General Skills/01 - Lets Warm Up.md",
+    "picoCTF/01 - General Skills/05 - First Grep.md",
+    "picoCTF/02 - General Skills",
+    "picoCTF/01 - General Skills/Sin nombre",
+    "picoCTF/01 - General Skills/04 - Bases.md",
     "picoCTF/01 - General Skills/10 - Nice netcat.md",
     "picoCTF/01 - General Skills/09 - Glitch Cat.md",
-    "Pasted image 20250212185257.png",
     "Pasted image 20250212195411.png",
     "picoCTF/01 - General Skills/08 - Plumbing.md",
     "Sin título.md",
-    "Plantilla.md",
     "picoCTF/01 - General Skills/03 - Warmed Up.md",
-    "picoCTF/01 - General Skills/04 - Bases.md",
     "picoCTF/01 - General Skills/07 - Whats a net cat.md",
     "picoCTF/01 - General Skills/06 - Obedient Cat.md",
-    "picoCTF/01 - General Skills/01 - Lets Warm Up.md",
     "picoCTF/01 - General Skills/02 - 2Warm.md",
-    "picoCTF/01 - General Skills/05 - First Grep.md",
     "README.md",
     "Pasted image 20250212184228.png",
     "Pasted image 20250212184122.png",
     "Pasted image 20250212184101.png",
     "Pasted image 20250212184057.png",
-    "picoCTF/01 - General Skills/Sin nombre",
     "picoCTF/01 - General Skills",
     "Sin nombre",
     "picoCTF",
