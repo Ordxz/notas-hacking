@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/03 - General Skills/10 - Serpentine.md",
+                "file": "picoCTF/03 - General Skills/09 - PW Crack 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - Serpentine"
+              "title": "09 - PW Crack 3"
             }
           }
         ],
@@ -185,6 +185,13 @@
   },
   "active": "e994685da5827cdb",
   "lastOpenFiles": [
+    "picoCTF/03 - General Skills/08 - PW Crack 2.md",
+    "picoCTF/03 - General Skills/09 - PW Crack 3.md",
+    "picoCTF/03 - General Skills/07 - PW Crack 1.md",
+    "Plantilla.md",
+    "picoCTF/03 - General Skills/03 - Codebook.md",
+    "picoCTF/03 - General Skills/04 - convertme.py.md",
+    "picoCTF/03 - General Skills/10 - Serpentine.md",
     "picoCTF/03 - General Skills/06 - fixme2.py.md",
     "picoCTF/03 - General Skills/05 - fixme1.py.md",
     "picoCTF/03 - General Skills/02 - runme.py.md",
@@ -200,7 +207,6 @@
     "picoCTF/02 - General Skills/06 - Tab, Tab, Attack.md",
     "picoCTF/02 - General Skills/05 - useless.md",
     "picoCTF/02 - General Skills/04 - Static ain't always noise.md",
-    "Plantilla.md",
     "picoCTF/02 - General Skills/02 - strings it.md",
     "picoCTF/02 - General Skills/03 - Wave a flag.md",
     "picoCTF/02 - General Skills/01 - Based.md",
@@ -212,12 +218,6 @@
     "picoCTF/01 - General Skills/10 - Nice netcat.md",
     "picoCTF/01 - General Skills/09 - Glitch Cat.md",
     "Pasted image 20250212195411.png",
-    "picoCTF/01 - General Skills/08 - Plumbing.md",
-    "Sin título.md",
-    "picoCTF/01 - General Skills/03 - Warmed Up.md",
-    "picoCTF/01 - General Skills/07 - Whats a net cat.md",
-    "picoCTF/01 - General Skills/06 - Obedient Cat.md",
-    "picoCTF/01 - General Skills/02 - 2Warm.md",
     "Pasted image 20250212184228.png",
     "Pasted image 20250212184122.png",
     "Pasted image 20250212184101.png",
