@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/03 - General Skills/09 - PW Crack 3.md",
+                "file": "picoCTF/Tarea 1/10 - ASCII Numbers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09 - PW Crack 3"
+              "title": "10 - ASCII Numbers"
             }
           }
         ],
@@ -185,10 +185,16 @@
   },
   "active": "e994685da5827cdb",
   "lastOpenFiles": [
-    "picoCTF/03 - General Skills/08 - PW Crack 2.md",
-    "picoCTF/03 - General Skills/09 - PW Crack 3.md",
-    "picoCTF/03 - General Skills/07 - PW Crack 1.md",
+    "picoCTF/Tarea 1/09 - binhexa.md",
     "Plantilla.md",
+    "picoCTF/Tarea 1/10 - ASCII Numbers.md",
+    "Pasted image 20250221163559.png",
+    "picoCTF/Tarea 1/04 - Commitment Issues.md",
+    "picoCTF/Tarea 1/05 - Time Machine.md",
+    "picoCTF/03 - General Skills/09 - PW Crack 3.md",
+    "picoCTF/Tarea 1",
+    "picoCTF/03 - General Skills/08 - PW Crack 2.md",
+    "picoCTF/03 - General Skills/07 - PW Crack 1.md",
     "picoCTF/03 - General Skills/03 - Codebook.md",
     "picoCTF/03 - General Skills/04 - convertme.py.md",
     "picoCTF/03 - General Skills/10 - Serpentine.md",
@@ -210,13 +216,8 @@
     "picoCTF/02 - General Skills/02 - strings it.md",
     "picoCTF/02 - General Skills/03 - Wave a flag.md",
     "picoCTF/02 - General Skills/01 - Based.md",
-    "picoCTF/01 - General Skills/01 - Lets Warm Up.md",
-    "picoCTF/01 - General Skills/05 - First Grep.md",
     "picoCTF/02 - General Skills",
     "picoCTF/01 - General Skills/Sin nombre",
-    "picoCTF/01 - General Skills/04 - Bases.md",
-    "picoCTF/01 - General Skills/10 - Nice netcat.md",
-    "picoCTF/01 - General Skills/09 - Glitch Cat.md",
     "Pasted image 20250212195411.png",
     "Pasted image 20250212184228.png",
     "Pasted image 20250212184122.png",
