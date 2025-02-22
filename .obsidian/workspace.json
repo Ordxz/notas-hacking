@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Tarea 1/01 - Permissions.md",
+                "file": "picoCTF/Tarea 1/03 - Special.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Permissions"
+              "title": "03 - Special"
             }
           }
         ]
@@ -172,6 +172,7 @@
   "lastOpenFiles": [
     "picoCTF/Tarea 1/02 - chrono.md",
     "Plantilla.md",
+    "picoCTF/Tarea 1/03 - Special.md",
     "picoCTF/Tarea 1/01 - Permissions.md",
     "picoCTF/Tarea 1/07 - Collaborative Development.md",
     "picoCTF/Tarea 1/06 - Blame Game.md",
@@ -202,7 +203,6 @@
     "picoCTF/02 - General Skills/07 - Magikarp Ground Mission.md",
     "Pasted image 20250217232844.png",
     "picoCTF/02 - General Skills/06 - Tab, Tab, Attack.md",
-    "picoCTF/02 - General Skills/05 - useless.md",
     "picoCTF/02 - General Skills",
     "picoCTF/01 - General Skills/Sin nombre",
     "Pasted image 20250212195411.png",
