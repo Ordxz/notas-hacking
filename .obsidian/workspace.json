@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bd9deec179b92549",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/02 - General Skills/10 - First Find.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10 - First Find"
-            }
-          },
-          {
             "id": "e994685da5827cdb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Tarea 1/10 - ASCII Numbers.md",
+                "file": "picoCTF/Tarea 1/01 - Permissions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - ASCII Numbers"
+              "title": "01 - Permissions"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,12 +170,18 @@
   },
   "active": "e994685da5827cdb",
   "lastOpenFiles": [
-    "picoCTF/Tarea 1/09 - binhexa.md",
+    "picoCTF/Tarea 1/02 - chrono.md",
     "Plantilla.md",
-    "picoCTF/Tarea 1/10 - ASCII Numbers.md",
-    "Pasted image 20250221163559.png",
-    "picoCTF/Tarea 1/04 - Commitment Issues.md",
+    "picoCTF/Tarea 1/01 - Permissions.md",
+    "picoCTF/Tarea 1/07 - Collaborative Development.md",
+    "picoCTF/Tarea 1/06 - Blame Game.md",
+    "picoCTF/Tarea 1/08 - Binary Search.md",
     "picoCTF/Tarea 1/05 - Time Machine.md",
+    "picoCTF/Tarea 1/04 - Commitment Issues.md",
+    "picoCTF/Tarea 1/10 - ASCII Numbers.md",
+    "picoCTF/Tarea 1/Sin nombre",
+    "picoCTF/Tarea 1/09 - binhexa.md",
+    "Pasted image 20250221163559.png",
     "picoCTF/03 - General Skills/09 - PW Crack 3.md",
     "picoCTF/Tarea 1",
     "picoCTF/03 - General Skills/08 - PW Crack 2.md",
@@ -212,10 +203,6 @@
     "Pasted image 20250217232844.png",
     "picoCTF/02 - General Skills/06 - Tab, Tab, Attack.md",
     "picoCTF/02 - General Skills/05 - useless.md",
-    "picoCTF/02 - General Skills/04 - Static ain't always noise.md",
-    "picoCTF/02 - General Skills/02 - strings it.md",
-    "picoCTF/02 - General Skills/03 - Wave a flag.md",
-    "picoCTF/02 - General Skills/01 - Based.md",
     "picoCTF/02 - General Skills",
     "picoCTF/01 - General Skills/Sin nombre",
     "Pasted image 20250212195411.png",
